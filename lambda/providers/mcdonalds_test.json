@@ -1,0 +1,388 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -73.33065,
+          40.898788
+        ]
+      },
+      "properties": {
+        "jobUrl": "",
+        "longDescription": "",
+        "todayHours": "05:30 - 00:00",
+        "driveTodayHours": "05:30 - 00:00",
+        "id": "195500281476-en-us",
+        "filterType": [
+          "DRIVETHRU",
+          "WIFI",
+          "GIFTCARDS",
+          "MOBILEOFFERS",
+          "MOBILEORDERS",
+          "INDOORDININGAVAILABLE"
+        ],
+        "addressLine1": "834 FORT SALONGA RD",
+        "addressLine2": "NEW YORK METRO REGION",
+        "addressLine3": "NORTHPORT",
+        "addressLine4": "USA",
+        "subDivision": "NY",
+        "postcode": "11768",
+        "telephone": "(631) 754-1608",
+        "restauranthours": {
+          "hoursMonday": "05:30 - 23:00",
+          "hoursTuesday": "05:30 - 00:00",
+          "hoursWednesday": "05:30 - 00:00",
+          "hoursThursday": "05:30 - 00:00",
+          "hoursFriday": "05:30 - 01:00",
+          "hoursSaturday": "05:30 - 01:00",
+          "hoursSunday": "05:30 - 00:00"
+        },
+        "drivethruhours": {
+          "driveHoursMonday": "05:30 - 23:00",
+          "driveHoursTuesday": "05:30 - 00:00",
+          "driveHoursWednesday": "05:30 - 00:00",
+          "driveHoursThursday": "05:30 - 00:00",
+          "driveHoursFriday": "05:30 - 01:00",
+          "driveHoursSaturday": "05:30 - 01:00",
+          "driveHoursSunday": "05:30 - 00:00"
+        },
+        "familyevent": [],
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "SiteIdNumber",
+              "identifierValue": "310153"
+            },
+            {
+              "identifierType": "NatlStrNumber",
+              "identifierValue": "1730"
+            },
+            {
+              "identifierType": "Region ID",
+              "identifierValue": "29"
+            },
+            {
+              "identifierType": "Co-Op",
+              "identifierValue": "NEW YORK METRO"
+            },
+            {
+              "identifierType": "Co-Op ID",
+              "identifierValue": "246"
+            },
+            {
+              "identifierType": "TV-Market",
+              "identifierValue": "NEW YORK CITY, NY"
+            },
+            {
+              "identifierType": "TV-Market ID",
+              "identifierValue": "16200"
+            }
+          ],
+          "gblnumber": "195500281476"
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "restaurantUrl": "https://my.peoplematter.com/USMCD1000890386/Hire/Recruiting/Application/Index?businessUnitId=13478FEC-1038-47C9-B628-A6AA00F3FDCC",
+        "storeNotice": "",
+        "openstatus": "OPEN",
+        "identifierValue": "1730"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.327835,
+          40.838955
+        ]
+      },
+      "properties": {
+        "jobUrl": "",
+        "longDescription": "",
+        "todayHours": "04:00 - 04:00",
+        "driveTodayHours": "04:00 - 04:00",
+        "id": "195500280837-en-us",
+        "filterType": [
+          "DRIVETHRU",
+          "WIFI",
+          "GIFTCARDS",
+          "MOBILEOFFERS",
+          "MOBILEORDERS",
+          "INDOORPLAYGROUND",
+          "INDOORDININGAVAILABLE",
+          "CREATEYOURTASTEAVAILABLE",
+          "INDOORPLAYPLACEAVAILABLE"
+        ],
+        "addressLine1": "1999 JERICHO TURNPIKE",
+        "addressLine2": "NEW YORK METRO REGION",
+        "addressLine3": "EAST NORTHPORT",
+        "addressLine4": "USA",
+        "subDivision": "NY",
+        "postcode": "11731",
+        "telephone": "(631) 499-9762",
+        "restauranthours": {
+          "hoursMonday": "05:00 - 23:00",
+          "hoursTuesday": "04:00 - 04:00",
+          "hoursWednesday": "04:00 - 04:00",
+          "hoursThursday": "04:00 - 04:00",
+          "hoursFriday": "04:00 - 04:00",
+          "hoursSaturday": "04:00 - 04:00",
+          "hoursSunday": "04:00 - 04:00"
+        },
+        "drivethruhours": {
+          "driveHoursMonday": "05:00 - 00:00",
+          "driveHoursTuesday": "04:00 - 04:00",
+          "driveHoursWednesday": "04:00 - 04:00",
+          "driveHoursThursday": "04:00 - 04:00",
+          "driveHoursFriday": "04:00 - 04:00",
+          "driveHoursSaturday": "04:00 - 04:00",
+          "driveHoursSunday": "04:00 - 04:00"
+        },
+        "familyevent": [],
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "SiteIdNumber",
+              "identifierValue": "310005"
+            },
+            {
+              "identifierType": "NatlStrNumber",
+              "identifierValue": "242"
+            },
+            {
+              "identifierType": "Region ID",
+              "identifierValue": "29"
+            },
+            {
+              "identifierType": "Co-Op",
+              "identifierValue": "NEW YORK METRO"
+            },
+            {
+              "identifierType": "Co-Op ID",
+              "identifierValue": "246"
+            },
+            {
+              "identifierType": "TV-Market",
+              "identifierValue": "NEW YORK CITY, NY"
+            },
+            {
+              "identifierType": "TV-Market ID",
+              "identifierValue": "16200"
+            }
+          ],
+          "gblnumber": "195500280837"
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "restaurantUrl": "https://my.peoplematter.com/USMCD1000890386/Hire/Recruiting/Application/Index?businessUnitId=338FF3B0-F37E-4591-A352-A6AA00F3FB03",
+        "storeNotice": "",
+        "openstatus": "OPEN",
+        "identifierValue": "242"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.292862,
+          40.816238
+        ]
+      },
+      "properties": {
+        "jobUrl": "",
+        "longDescription": "",
+        "todayHours": "05:30 - 23:00",
+        "driveTodayHours": "04:00 - 04:00",
+        "id": "195500282152-en-us",
+        "filterType": [
+          "DRIVETHRU",
+          "WIFI",
+          "GIFTCARDS",
+          "MOBILEOFFERS",
+          "MOBILEORDERS",
+          "INDOORDININGAVAILABLE"
+        ],
+        "addressLine1": "2 VANDERBILT PKWY",
+        "addressLine2": "NEW YORK METRO REGION",
+        "addressLine3": "COMMACK",
+        "addressLine4": "USA",
+        "subDivision": "NY",
+        "postcode": "11725",
+        "telephone": "(631) 499-2117",
+        "restauranthours": {
+          "hoursMonday": "05:30 - 23:00",
+          "hoursTuesday": "05:30 - 23:00",
+          "hoursWednesday": "05:30 - 23:00",
+          "hoursThursday": "05:30 - 23:00",
+          "hoursFriday": "05:30 - 00:00",
+          "hoursSaturday": "05:30 - 00:00",
+          "hoursSunday": "05:30 - 23:00"
+        },
+        "drivethruhours": {
+          "driveHoursMonday": "05:00 - 01:00",
+          "driveHoursTuesday": "04:00 - 04:00",
+          "driveHoursWednesday": "04:00 - 04:00",
+          "driveHoursThursday": "04:00 - 04:00",
+          "driveHoursFriday": "04:00 - 04:00",
+          "driveHoursSaturday": "04:00 - 04:00",
+          "driveHoursSunday": "04:00 - 04:00"
+        },
+        "familyevent": [],
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "SiteIdNumber",
+              "identifierValue": "310299"
+            },
+            {
+              "identifierType": "NatlStrNumber",
+              "identifierValue": "3177"
+            },
+            {
+              "identifierType": "Region ID",
+              "identifierValue": "29"
+            },
+            {
+              "identifierType": "Co-Op",
+              "identifierValue": "NEW YORK METRO"
+            },
+            {
+              "identifierType": "Co-Op ID",
+              "identifierValue": "246"
+            },
+            {
+              "identifierType": "TV-Market",
+              "identifierValue": "NEW YORK CITY, NY"
+            },
+            {
+              "identifierType": "TV-Market ID",
+              "identifierValue": "16200"
+            }
+          ],
+          "gblnumber": "195500282152"
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "restaurantUrl": "https://my.peoplematter.com/USMCD1000890386/Hire/Recruiting/Application/Index?businessUnitId=CC4B8EE3-4075-4594-9953-A6AA00F40417",
+        "storeNotice": "",
+        "openstatus": "OPEN",
+        "identifierValue": "3177"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.244034,
+          40.84861
+        ]
+      },
+      "properties": {
+        "jobUrl": "",
+        "longDescription": "",
+        "todayHours": "05:00 - 23:00",
+        "driveTodayHours": "05:00 - 00:00",
+        "id": "195500281223-en-us",
+        "filterType": [
+          "DRIVETHRU",
+          "WIFI",
+          "GIFTCARDS",
+          "MOBILEOFFERS",
+          "MOBILEORDERS",
+          "INDOORDININGAVAILABLE",
+          "CREATEYOURTASTEAVAILABLE"
+        ],
+        "addressLine1": "923 JERICHO TPKE",
+        "addressLine2": "NEW YORK METRO REGION",
+        "addressLine3": "SMITHTOWN",
+        "addressLine4": "USA",
+        "subDivision": "NY",
+        "postcode": "11787",
+        "telephone": "(631) 864-6751",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 23:00",
+          "hoursTuesday": "05:00 - 23:00",
+          "hoursWednesday": "05:00 - 23:00",
+          "hoursThursday": "05:00 - 23:00",
+          "hoursFriday": "05:00 - 23:00",
+          "hoursSaturday": "05:00 - 23:00",
+          "hoursSunday": "06:00 - 23:00"
+        },
+        "drivethruhours": {
+          "driveHoursMonday": "06:00 - 23:30",
+          "driveHoursTuesday": "05:00 - 00:00",
+          "driveHoursWednesday": "05:00 - 00:00",
+          "driveHoursThursday": "05:00 - 00:00",
+          "driveHoursFriday": "05:00 - 00:00",
+          "driveHoursSaturday": "05:00 - 00:00",
+          "driveHoursSunday": "06:00 - 00:00"
+        },
+        "familyevent": [],
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "SiteIdNumber",
+              "identifierValue": "310091"
+            },
+            {
+              "identifierType": "NatlStrNumber",
+              "identifierValue": "1709"
+            },
+            {
+              "identifierType": "Region ID",
+              "identifierValue": "29"
+            },
+            {
+              "identifierType": "Co-Op",
+              "identifierValue": "NEW YORK METRO"
+            },
+            {
+              "identifierType": "Co-Op ID",
+              "identifierValue": "246"
+            },
+            {
+              "identifierType": "TV-Market",
+              "identifierValue": "NEW YORK CITY, NY"
+            },
+            {
+              "identifierType": "TV-Market ID",
+              "identifierValue": "16200"
+            }
+          ],
+          "gblnumber": "195500281223"
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "restaurantUrl": "https://my.peoplematter.com/USMCD1000891752/Hire/Recruiting/Application/Index?businessUnitId=23F7A113-7C86-4AF5-8405-A6A6002F1A6C",
+        "storeNotice": "",
+        "openstatus": "OPEN",
+        "identifierValue": "1709"
+      }
+    }
+  ]
+}

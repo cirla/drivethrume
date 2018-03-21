@@ -1,0 +1,7 @@
+dist
+elm-stuff
+node_modules
+yarn-error.log
+lambda/vendor
+lambda/api.zip
+functions

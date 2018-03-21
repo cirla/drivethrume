@@ -1,0 +1,20 @@
+AWSTemplateFormatVersion : '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Description: |
+  Drive-Thru Me API
+
+Resources:
+  FindDriveThrus:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: find_drivethrus
+      CodeUri: ./api.zip
+      Runtime: go1.x
+      Timeout: 10000
+      Events:
+        PostItems:
+          Type: Api
+          Properties:
+            Path: /.netlify/functions/find_drivethrus
+            Method: post
